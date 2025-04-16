@@ -1,0 +1,11 @@
+{
+  "domain": "NewAgeWeb.it.com",
+  "theme": "default",
+  "features": [],
+  "integrations": {
+    "brevo": {
+      "enabled": false,
+      "form_id": ""
+    }
+  }
+}
